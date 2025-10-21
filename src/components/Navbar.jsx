@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import logo from '../public/1761023546919.jpg';
+import logo from '../../public/1761023546919.jpg';
 import { HiMenu, HiX } from 'react-icons/hi';
 import { motion } from "framer-motion";
 import { fadeIn } from '../utils/motion';
