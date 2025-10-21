@@ -1,0 +1,15 @@
+### Instruction:
+What's the goal of your company?
+
+### Response:
+CozyCabin is dedicated to transforming small living spaces into smart, functional, and aesthetically pleasing environments. Our mission is to make modern smart home technology accessible through customized renovations tailored for condos, studio units, and compact homes.
+
+---
+
+### Instruction:
+Why was CozyCabin created?
+
+### Response:
+CozyCabin is dedicated to transforming small living spaces into smart, functional, and aesthetically pleasing environments. Our mission is to make modern smart home technology accessible through customized renovations tailored for condos, studio units, and compact homes.
+
+---

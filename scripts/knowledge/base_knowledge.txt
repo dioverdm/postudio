@@ -1,0 +1,178 @@
+### Instruction:
+What is the core focus or mission of CozyCabin?
+
+### Response:
+CozyCabin is dedicated to transforming small living spaces into smart, functional, and aesthetically pleasing environments. Our mission is to make modern smart home technology accessible through customized renovations tailored for condos, studio units, and compact homes.
+
+---
+
+### Instruction:
+Do you support condo or studio unit renovations?
+
+### Response:
+Yes. We specialize in space-saving smart renovations for condos and studio units. Features include Murphy beds, modular cabinets, smart lighting, and multi-functional furniture to optimize every square foot.
+
+---
+
+### Instruction:
+What’s included in a smart mirror setup?
+
+### Response:
+Our smart mirrors include voice control, lighting automation, and integration with your calendar and weather. They are compatible with popular AI assistants and designed for both functionality and style.
+
+---
+
+### Instruction:
+What services do you offer?
+
+### Response:
+We offer smart interior design consultations, custom renovations, smart device integrations (lighting, mirrors, speakers), and app-based home automation solutions.
+
+---
+
+### Instruction:
+Are the LED lights customizable?
+
+### Response:
+Yes. You can control brightness, color temperature, and create preset moods. LEDs are integrated into key areas like cabinets and ceilings for both form and function.
+
+---
+
+### Instruction:
+Do you support Alexa or Google Assistant?
+
+### Response:
+Yes. Our systems are compatible with Amazon Alexa, Google Assistant, and other major smart ecosystems.
+
+---
+
+### Instruction:
+Can I control everything from my phone?
+
+### Response:
+Yes. Most of our smart features are controllable via a mobile app or voice command.
+
+---
+
+### Instruction:
+Can I request custom cabinet finishes or colors?
+
+### Response:
+Yes. We offer a wide selection of custom finishes, colors, and materials to match your interior style.
+
+---
+
+### Instruction:
+What’s the process after I inquire?
+
+### Response:
+We begin with a consultation, followed by a design proposal, revisions, and then installation. Each phase is clearly communicated.
+
+---
+
+### Instruction:
+Do you provide 3D design previews?
+
+### Response:
+Yes. You’ll receive 3D renders of your proposed space before anything is built or installed.
+
+---
+
+### Instruction:
+How long does a typical renovation take?
+
+### Response:
+Most projects are completed in 2 to 4 weeks, depending on complexity and customizations.
+
+---
+
+### Instruction:
+What if I already have smart devices?
+
+### Response:
+We can integrate compatible existing devices into the new system.
+
+---
+
+### Instruction:
+What if the smart mirror fails?
+
+### Response:
+We will repair or replace it if it’s under warranty. Remote software fixes are also available.
+
+---
+
+### Instruction:
+Do I need a specific ceiling height for the Murphy bed?
+
+### Response:
+A minimum ceiling height of 7.5 feet is recommended. We can modify designs to accommodate lower clearances.
+
+---
+
+### Instruction:
+Where do your answers come from?
+
+### Response:
+All information is sourced from CozyCabin’s internal documentation, service offerings, and verified technical specs.
+
+---
+
+### Instruction:
+Can you help me choose the right setup?
+
+### Response:
+Yes. Tell me about your space and lifestyle, and I can recommend an optimal setup for your needs.
+
+---
+
+### Instruction:
+How do I book a consultation?
+
+### Response:
+Click Book Now on the website or contact us via chat, email, or phone.
+
+---
+
+### Instruction:
+Can I book a calendar schedule through the assistant?
+
+### Response:
+Yes. This AI assistant can help you create calendar events using Google Calendar. Simply provide your email, event title, and date/time in a sentence or comma-separated format.
+
+---
+
+### Instruction:
+Do you work outside Metro Manila?
+
+### Response:
+Yes. We accept projects outside Metro Manila depending on location and logistics.
+
+---
+
+### Instruction:
+Do you offer payment plans?
+
+### Response:
+Yes. Payment plans are available, and we also work with third-party financing partners.
+
+---
+
+### Instruction:
+What if I ask a question the assistant doesn't know?
+
+### Response:
+The assistant will only answer questions using verified CozyCabin data. If it doesn’t find a match, it will let you know that it doesn’t have enough information and avoid making things up.
+
+---
+
+### Instruction:
+Do you have a showroom?
+
+### Response:
+Yes, we have a showroom located in Davao City. Visits are by appointment.
+
+---
+
+
+

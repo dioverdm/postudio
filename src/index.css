@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px; /* Adjust based on your navbar height */
+}
+
+/* src/index.css or global Tailwind layer */
+.input {
+  @apply w-full border border-gray-300 rounded-md px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500;
+}
+
+.btn {
+  @apply bg-blue-600 text-white px-5 py-2 rounded-md hover:bg-blue-700 transition text-sm font-medium;
+}
+
+.btn-secondary {
+  @apply bg-gray-300 text-gray-800 px-5 py-2 rounded-md hover:bg-gray-400 transition text-sm font-medium;
+}
+
+/* Optional reusable input style */
+.input-modern {
+  @apply w-full px-4 py-2 text-sm rounded-lg bg-white border border-gray-200 shadow-sm 
+         focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent 
+         transition-all duration-300;
+}
+
+/* Smooth scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #6b73ff 0%, #000dff 100%);
+  border-radius: 10px;
+}
+
+/* Glow effect for entire chat */
+.chat-glow {
+  box-shadow: 0 0 30px rgba(100, 149, 237, 0.4);
+}
